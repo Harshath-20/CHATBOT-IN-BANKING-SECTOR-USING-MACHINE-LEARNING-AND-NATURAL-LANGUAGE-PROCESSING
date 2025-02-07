@@ -1,0 +1,2 @@
+# CHATBOT-IN-BANKING-SECTOR-USING-MACHINE-LEARNING-AND-NATURAL-LANGUAGE-PROCESSING
+Banking Chatbot is an AI-powered system using ML, NLP, Python, and SQL to handle banking queries. It processes 1,700+ Q&amp;A pairs for accurate responses via an HTML front-end and Flask back-end, improving customer support and reducing response time. Future updates include dataset expansion, web deployment, and UI/UX enhancements.
